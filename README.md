@@ -1,5 +1,4 @@
 # NEWS
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+| 时间 | 哲学 | 信息 | 历史 | 经济 | 政策 |
+| -------- | -------- | -------- |-------- | -------- | -------- |
+| 大爆炸     | 一切都在变     | 指导人们做事情     | 人为的事情都在重复     | 研究资源的高效使用     | 指导人们做事情     |
